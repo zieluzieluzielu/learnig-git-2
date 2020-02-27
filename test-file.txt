@@ -1,1 +1,2 @@
 Test text of test file
+updated
